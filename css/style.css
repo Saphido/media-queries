@@ -1,0 +1,43 @@
+ /* mobile phones: */
+body {
+    background-color: red;
+    font-size: 22px;
+}
+
+#medium, #large {
+    display: none 
+}
+
+/* tablets */
+@media only screen and (min-width: 410px) {
+
+    body {
+        background-color: green;
+        font-size: 18px;
+    }
+
+    #small, #large {
+        display: none 
+    }
+
+    #medium {
+        display: block;
+    }
+}
+
+/* desktop */
+@media only screen and (min-width: 768px) {
+
+    body {
+        background-color: blue;
+        font-size: 14px;
+    }
+
+    #small, #medium {
+        display: none 
+    }
+
+    #large {
+        display: block;
+    }
+} 
