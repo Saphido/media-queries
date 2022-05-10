@@ -3,5 +3,5 @@
 
 <p align="center"> Here is my repository for the responsivity exercise. <br>
 In this exercise, we need to change the colour, display/hide elements, adapting the size of the text according to the device screen size (Responsivity).
-<br><br> <b>Not finished yet<p></b>
+<br><br> <b>Finished | Waiting coach approuvement<p></b>
 <br>
